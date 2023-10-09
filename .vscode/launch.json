@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ServerApplication",
+            "request": "launch",
+            "mainClass": "com.smarterschedule.server.ServerApplication",
+            "projectName": "server"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": ["<node_internals>/**"],
+            "program": "${file}"
+        }
+    ]
+}
