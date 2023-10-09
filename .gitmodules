@@ -1,0 +1,6 @@
+[submodule "smarter-schedule-client"]
+	path = smarter-schedule-client
+	url = https://github.com/tonghohin/smarter-schedule-client.git
+[submodule "smarter-schedule-server"]
+	path = smarter-schedule-server
+	url = https://github.com/tonghohin/smarter-schedule-server.git
