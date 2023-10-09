@@ -1,1 +1,1 @@
-# smarter-schedule
+# Smarter Schedule
